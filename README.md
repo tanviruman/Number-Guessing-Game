@@ -87,7 +87,12 @@ Wrong, 4 Choice(s) Left!
 Enter your Guess: 40
 Wrong, 3 Choice(s) Left!
 Enter your Guess:
-Sure, let's break down the code step by step to explain its functionality.
+
+```
+
+### Code Explanation
+
+ let's break down the code step by step to explain its functionality.
 
 ```c
 #include <stdio.h>
@@ -131,9 +136,6 @@ int main() {
 
     return 0;
 }
-```
-
-### Code Explanation
 
 #### 1. Include Standard I/O Library
 ```c

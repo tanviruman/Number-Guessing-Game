@@ -1,4 +1,4 @@
-# Number Guessing Game Documentation
+# Number Guessing Game 
 
 This C program implements a number guessing game where Player-1 sets a number and Player-2 tries to guess it within a limited number of attempts.
 
